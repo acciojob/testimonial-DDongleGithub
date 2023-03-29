@@ -10,5 +10,6 @@ body{
 }
 
 .author{
-	text-align: end;
+	text-align: right;
+	font-style: italic;
 }
